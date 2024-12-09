@@ -58,7 +58,7 @@ To get started with the project, follow these steps:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repository/real-time-stock-market-data.git
+   https://github.com/NihalThomas/Real-Time-Stock-Market-Kafka.git
    ```
 
 ## Dataset Used
